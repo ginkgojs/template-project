@@ -1,5 +1,5 @@
 const path = require('path')
-const Ginkgo = require('./ginkgo')
+const Ginkgo = require('ginkgojs')
 
 const configure = {
   directory: {

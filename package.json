@@ -1,0 +1,23 @@
+{
+  "name": "template-project",
+  "version": "1.0.0",
+  "description": "",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ginkgojs/template-project.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/ginkgojs/template-project/issues"
+  },
+  "homepage": "https://github.com/ginkgojs/template-project#readme",
+  "dependencies": {
+    "ginkgojs": "0.0.1"
+  }
+}
